@@ -4,7 +4,7 @@
 
 ### Web Developer in Progress 🚀
 
-**OFPPT · Web Full Stack**
+** Web Full Stack**
 
 <br>
 
