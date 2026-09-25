@@ -2,33 +2,50 @@
 
 # ABDEL-HADI MANSSOUR
 
-### Web Developer in Progress 🚀
+### Web Developer | Web Full Stack
 
-  Web Full Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-
-<br><br>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Web Full Stack student passionate about programming,
-web development and building digital projects.
+I'm a Web Full Stack student passionate about programming, web development and building digital projects.
 
-Currently learning, building and improving every day.
-
-### 🛠️ Technologies
-
-HTML • CSS • JavaScript • Python • Git • GitHub • VS Code
-
-### 📌 Current Focus
-
-Web Development · Programming · Software Development
+Currently learning, building and improving my skills every day.
 
 ---
+
+## 🛠️ Tech Stack
+
+**Frontend:** HTML · CSS · JavaScript
+
+**Programming:** Python
+
+**Tools:** Git · GitHub · VS Code
+
+---
+
+## 🚀 Currently Learning
+
+- Web Development
+- Programming
+- Software Development
+
+---
+
+## 📂 Projects
+
+Coming soon...
+
+---
+
+<div align="center">
+
+### Let's build something great.
 
 </div>
